@@ -62,5 +62,5 @@ random_forest_pipeline:
       - "time_signature"
       - "key"
     nlp:
-      - "text"
+      - "text_feature"
   export_artifact: "model_export"
